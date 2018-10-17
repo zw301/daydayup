@@ -9,3 +9,4 @@ To solve these (and many other) problems, some projects will organize their code
 Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 
 https://lernajs.io/
+https://github.com/lerna/lerna
